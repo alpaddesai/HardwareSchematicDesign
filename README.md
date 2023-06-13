@@ -32,3 +32,4 @@
 
 ![image](Slide16.JPG)
 
+Additional details reference https://github.com/alpaddesai/ArchitecturalProductDesign
