@@ -1,5 +1,7 @@
 # Hardware Schematic Design
 
+![image](AllegroCertificate.jpg)
+
 ![image](Slide1.JPG)
 
 ![image](Slide2.JPG)
